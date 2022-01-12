@@ -14,9 +14,6 @@ supported_filetypes = [
     'webp'
 ]
 
-# TODO: process only supported file types
-# TODO: log process
-
 # Your API token from https://tinify.com/dashboard/api
 tinify.key = config['TINIFY_API_KEY']
 
